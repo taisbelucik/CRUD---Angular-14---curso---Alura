@@ -1,0 +1,16 @@
+{
+  "pensamentos": [
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor'",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 5,
+      "conteudo": "Eu amo o Jean",
+      "autoria": "Taís",
+      "modelo": "modelo2"
+    }
+  ]
+}
